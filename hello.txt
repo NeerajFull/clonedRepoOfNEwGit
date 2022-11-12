@@ -4,3 +4,7 @@ Hello everyone welcome to hello git
 This is going good...
 
 Who are you ? 
+
+
+git checkout -- hello.txt --> restore to last commit for this file...
+
