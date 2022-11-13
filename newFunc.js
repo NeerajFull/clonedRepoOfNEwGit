@@ -2,4 +2,7 @@
 
 func 
 
-Hello i 
+function mainFunc(){
+    console.log("this should be added");
+}
+
