@@ -8,3 +8,4 @@ Who are you ?
 
 git checkout -- hello.txt --> restore to last commit for this file...
 
+git restore --staged <fileName>
